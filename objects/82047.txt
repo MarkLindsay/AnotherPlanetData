@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=3
-spriteID=82067
-pos=-8.000000,-20.000000
+spriteID=82073
+pos=-2.000000,-17.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,8 +40,8 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=739
-pos=8.000000,-6.000000
-rot=0.500000
+pos=12.000000,-30.000000
+rot=0.875000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -49,12 +49,12 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=739
-pos=-2.000000,-6.000000
-rot=0.750000
+pos=19.000000,-37.000000
+rot=0.625000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
@@ -64,5 +64,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=7
+pixHeight=9
 author=FF221D0444
