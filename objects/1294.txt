@@ -1,5 +1,5 @@
 id=1294
-Just Crashed#+tapoutTrigger,2,2,10,10
+Just Crashed#+tapoutTrigger,1,1,10,10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -79,7 +79,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=4,0.500000
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=100

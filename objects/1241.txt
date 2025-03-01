@@ -1,5 +1,5 @@
 id=1241
-Crash Site Steel Plates# tapoutTrigger,2,2,10,10
+Crash Site Steel Plates# tapoutTrigger,1,1,10,10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
